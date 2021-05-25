@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\cogbonna\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\cogbonna\\.nuget\\packages"
-    ]
-  }
-}
