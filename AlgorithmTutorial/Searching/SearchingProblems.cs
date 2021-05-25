@@ -43,11 +43,7 @@ namespace AlgorithmTutorial.Searching
                 }
             }
 
-            //for(int i = 0; i < result.Count; i++)
-            //{
-            //    if (result.ElementAt(i).Value > 1)
-            //        return result.ElementAt(i).Key;
-            //}
+           
 
             return 0;
         }
