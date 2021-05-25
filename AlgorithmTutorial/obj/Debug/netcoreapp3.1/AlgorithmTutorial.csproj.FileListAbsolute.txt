@@ -11,3 +11,16 @@ C:\Users\Charles\source\repos\AlgorithmTutorial\AlgorithmTutorial\obj\Debug\netc
 C:\Users\Charles\source\repos\AlgorithmTutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.dll
 C:\Users\Charles\source\repos\AlgorithmTutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.pdb
 C:\Users\Charles\source\repos\AlgorithmTutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.genruntimeconfig.cache
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\bin\Debug\netcoreapp3.1\AlgorithmTutorial.exe
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\bin\Debug\netcoreapp3.1\AlgorithmTutorial.deps.json
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\bin\Debug\netcoreapp3.1\AlgorithmTutorial.runtimeconfig.json
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\bin\Debug\netcoreapp3.1\AlgorithmTutorial.runtimeconfig.dev.json
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\bin\Debug\netcoreapp3.1\AlgorithmTutorial.dll
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\bin\Debug\netcoreapp3.1\AlgorithmTutorial.pdb
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.csprojAssemblyReference.cache
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.AssemblyInfoInputs.cache
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.AssemblyInfo.cs
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.csproj.CoreCompileInputs.cache
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.dll
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.pdb
+C:\Users\cogbonna\source\repos\algorithm_tutorial\AlgorithmTutorial\obj\Debug\netcoreapp3.1\AlgorithmTutorial.genruntimeconfig.cache
